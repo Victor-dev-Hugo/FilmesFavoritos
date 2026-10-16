@@ -1,3 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Filmes Favoritos</string>
+    <string name="add_movie">Adicionar filme</string>
+    <string name="edit_movie">Editar filme</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Excluir</string>
+    <string name="edit">Editar</string>
+    <string name="hint_name">Nome do filme</string>
+    <string name="hint_photo">URL da foto (opcional)</string>
+    <string name="label_rating">Nota</string>
+    <string name="error_name_required">Informe o nome do filme</string>
+    <string name="empty_list">Nenhum filme favorito ainda.\nToque no + para adicionar.</string>
+    <string name="rating_format">Nota: %1$.1f / 5</string>
+    <string name="poster_description">Pôster do filme</string>
+    <string name="delete_title">Excluir filme</string>
+    <string name="delete_message">Deseja remover \"%1$s\" dos favoritos?</string>
 </resources>
